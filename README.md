@@ -3,7 +3,7 @@
 <h1 align="center">KAMRUN NESA</h1>
 
 <h3 align="center">
-AI/ML Researcher | Web Developer |  Django Developer | Data Science Learner
+AI/ML Researcher | Web Developer | Data Science Learner
 </h3>
 
 <p align="center">
